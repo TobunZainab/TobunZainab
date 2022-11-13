@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zainab 
-- 🌱 I am an Environental Scientist turned Data Analyst 
+- 🌱 I am an Environmental Scientist turned Data Analyst 
 - 📈 I started my data journey in March 2022
 - ✅ My core competencies are; MySQL, Spreadsheets, PowerBi and Tableau
 - 📚 I’m currently learning Python and R
