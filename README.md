@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Zainab 
-- 🌱 I am an Environmental Scientist turned Data Analyst 
-- 📈 I started my data journey in March 2022
-- ✅ My core competencies are; MySQL, Excel, PowerBi and Tableau
-- 📚 I’m currently learning Python and R
+- 📈 I am a Data Analyst
+- ✅ My core competencies are; MySQL, Excel, Python, PowerBi and Tableau
 - 📫 connect with me on https://www.linkedin.com/in/zainab-tobun/
 
 <!---
